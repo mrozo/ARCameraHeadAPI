@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCameraHeadAPI", "ARCameraHeadAPI\ARCameraHeadAPI.csproj", "{1F0085E1-0CDA-4904-8365-1F66CC4FF588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest", "APITest\APITest.csproj", "{D2B52C1D-3C49-49CC-9386-AF56D4427B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugHelper", "DebugHelper\DebugHelper.csproj", "{3AC075B3-5A9F-4909-B458-D19869328C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0085E1-0CDA-4904-8365-1F66CC4FF588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0085E1-0CDA-4904-8365-1F66CC4FF588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0085E1-0CDA-4904-8365-1F66CC4FF588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0085E1-0CDA-4904-8365-1F66CC4FF588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B52C1D-3C49-49CC-9386-AF56D4427B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B52C1D-3C49-49CC-9386-AF56D4427B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B52C1D-3C49-49CC-9386-AF56D4427B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B52C1D-3C49-49CC-9386-AF56D4427B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC075B3-5A9F-4909-B458-D19869328C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC075B3-5A9F-4909-B458-D19869328C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC075B3-5A9F-4909-B458-D19869328C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC075B3-5A9F-4909-B458-D19869328C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
