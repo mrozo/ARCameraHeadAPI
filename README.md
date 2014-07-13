@@ -1,9 +1,9 @@
 # ARCameraHeadAPI
-======
+
 University project which goal is to create camera head controlled by virtual reality helmets like Oculus Rift. This repository contains PC API used to interact with the head.
 
 ## Folder structure
-======
+
 
 * **ARCameraHeadAPI**
   
