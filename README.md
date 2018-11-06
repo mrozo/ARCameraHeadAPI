@@ -1,6 +1,8 @@
 # ARCameraHeadAPI
 
-University project which goal is to create camera head controlled by virtual reality helmets like Oculus Rift. This repository contains PC API used to interact with the head.
+This code is a parto of university thesis "Stereoscopic camera system with pan and tilt functionality controled in real time by oculus rift". The project has been created together with Jędrzej D. and Maciej R. . I (mrozo) was responsible for creating the mechanics, electronics, firmware for the elctronics and drivers exposing API used to control the camera head.
+
+This repository contains driver used to control the camera head. For the firmware, see [ARCameraHeadRom](https://github.com/mrozo/ARCameraHeadRom/).
 
 ## Folder structure
 
